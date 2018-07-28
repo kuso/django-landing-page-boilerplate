@@ -42,4 +42,4 @@ Go to myproject directory and start the web server
 python manage.py runserver
 ```
 
-open [http://dev_server/landing_page](http://dev_server/landinge_page) with browser
+open [http://dev_server/landing_page](http://dev_server/landing_page) with browser
