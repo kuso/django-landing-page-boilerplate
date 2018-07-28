@@ -43,3 +43,4 @@ python manage.py runserver
 ```
 
 open [http://dev_server/landing_page](http://dev_server/landing_page) with browser
+
